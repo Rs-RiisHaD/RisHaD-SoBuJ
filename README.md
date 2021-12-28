@@ -2,4 +2,4 @@
 
 cd RisHaD
 
-This SysTeM CreacT By RisHaD
+This SysTeM create By RisHaD
