@@ -1,1 +1,5 @@
-Faile name = RisHaD
+
+_____           _    __  __
+        |_   _|__   ___ | |   \ \/ /                              | |/ _ \ / _ \| |____\  /                               | | (_) | (_) | |____/  \                               |_|\___/ \___/|_|   /_/\_\ v2.1                                                                                                                                =============================================          |          Install Best Hacking Tool          |          =============================================                                                                    [ + ] Use It At Your Own Risk.                          [ + ] No Warranty.                                      [ + ] Use it legal purpose only.                        [ + ] We are not responsible for your actions.
+  [ + ] Do not do things that are forbidden.                                                                     If you are installing this tool.                        that means you are agree with all terms.
+_______________________________________________         ===============================================         Do you want to install Tool-X [Y/n]>
