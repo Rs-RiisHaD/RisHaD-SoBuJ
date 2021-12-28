@@ -1,3 +1,1 @@
-RisHaD
-iTz RisHaD
-My FirsT SysTeM
+Faile name = RisHaD
